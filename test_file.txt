@@ -1,1 +1,7 @@
 some text in my test file!
+
+Feature 1:
+
+Some test text
+
+end Feature 1
